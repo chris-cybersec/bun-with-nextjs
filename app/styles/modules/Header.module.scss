@@ -1,0 +1,24 @@
+@use "_Mixins.module.scss" as *;
+@use "_Variables.module.scss" as *;
+
+.container {
+  @include flexRow;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 1rem;
+  border-block-end: 1px solid $altClr;
+  height: 100%;
+.left{
+  @include flexRow;
+  align-items: center;
+  .logo{
+    margin-inline-end: 1rem;
+  }
+  .txt{
+    font-size: 1.6rem;
+  }
+}
+.right{
+  font-size: 1.6rem;
+}
+}

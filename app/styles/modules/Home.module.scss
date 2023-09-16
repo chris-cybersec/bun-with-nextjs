@@ -1,0 +1,27 @@
+@use '_Mixins.module.scss' as *;
+@use '_Variables.module.scss' as *;
+
+.container{
+@include flexColumn;
+align-items: center;
+justify-content: space-around;
+height: 100%;
+h1{
+  text-align: center;
+color: $altClr;
+}
+ul{
+  background: $altBg;
+  border-radius: 5px;
+  padding: .5rem;
+  margin-block-start: 1rem;
+  li{
+  margin-inline-start: 2rem;
+}
+}
+}
+
+.ending{
+  font-style: italic;
+  font-weight: 200;
+}

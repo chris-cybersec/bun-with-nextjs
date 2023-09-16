@@ -1,0 +1,1 @@
+.container{display:flex;flex-direction:row;align-items:center;justify-content:space-between;padding-inline:1rem;border-block-end:1px solid #f472b6;height:100%}.container .left{display:flex;flex-direction:row;align-items:center}.container .left .logo{margin-inline-end:1rem}.container .left .txt{font-size:1.6rem}.container .right{font-size:1.6rem}
