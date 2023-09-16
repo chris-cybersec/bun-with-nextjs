@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my very first time using [bun](https://bun.sh/) and [Next.js](https://nextjs.org/).
+This is my very first time using [bun](https://bun.sh/) with [Next.js](https://nextjs.org/).
 ## Installation
 
 First you need to install bun in your operating system.  
