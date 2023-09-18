@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my very first time using [bun](https://bun.sh/) with [Next.js](https://nextjs.org/).
+This is my very first time using [bun](https://bun.sh/) and [Next.js](https://nextjs.org/).
 ## Installation
 
 First you need to install bun in your operating system.  
@@ -35,4 +35,11 @@ Have fun by experimenting with it.
 ## Authors
 
 - [@chris-cybersec](https://www.github.com/chris-cybersec)
+
+
+Check live website under  
+[https://bun-with-nextjs.chris-cybersec.dev](https://bun-with-nextjs.chris-cybersec.dev)
+## Screenshots
+
+![App Screenshot](https://github.com/chris-cybersec/bun-with-nextjs/blob/main/public/bun-with-nextjs.png)
 
