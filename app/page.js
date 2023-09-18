@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import styles from "@/app/styles/min/Home.module.css";
+import styles from "/app/styles/min/Home.module.css";
 import TypingComponent from "./components/typing";
 
 const Home = () => {
